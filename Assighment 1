@@ -1,0 +1,21 @@
+<!-- Create two variables and perform all arithmetic (addition, subtraction..etc ) operations and print the result in the console using templating syntax. -->
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>JAVASCRIPT ASSIGHMENT1</title>
+  </head>
+  <body>
+    <script type="text/javascript">
+          let a=25;
+          let b=22;
+          let sum ;
+          console.log(`Addition : ${a+b}`);
+          console.log(`Substraction : ${a-b}`);
+          console.log(`Multiplication : ${a*b}`);
+          console.log(`Division  : ${a/b}`);
+          console.log(`Modulus  : ${a%b}`);
+    </script>
+
+  </body>
+</html>
